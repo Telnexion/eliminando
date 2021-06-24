@@ -1,278 +1,122 @@
-#EXTINF:-1  "https://goo.gl/pjDDBE"  "Canais Web TV", Vivam Web TV
-http://stmv2.euroti.com.br:1935/vivamwebradio/vivamwebradio/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "https://goo.gl/U4xGJ3"  "Canais Web TV", Sobrenatural TV
-http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "http://jump4web.com/wp-content/uploads/2017/07/LOGO-RICOS-quadrado.png"  "Canais Web TV", TV Ricos
-http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "http://i.imgur.com/WWOTXQp.png"  "Canais Web TV", TV MaceiÃ³ HD
-http://173.236.10.10:1935/toptv/toptv/chunklist_w233160029.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "http://i.imgur.com/TX1jfAh.jpg"  "Canais Web TV", TV MaceiÃ³ SD
-http://173.236.10.10:1935/toptv/toptv/playlist.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "http://www.cxtv.com.br/img/Tvs/Logo/4b67ca71e1ac21c3a9481cda15a461d4.png"  "Canais Web TV", AD ALMADA TV
-http://188.165.216.211:1935/adalmada/adalmada.stream/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "https://goo.gl/SHBEBa"  "Canais Web TV", AR TV
-http://193.126.16.68:1935/livenlin4/2liveartvpub/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "https://cdn.reweb.io/hagah/image/PPxf0wxgr6BZxl1F1RTcIxStzZ4=/300x300/top/smart/hagah/f/f3/canal-20-net-florianopolis-f36d46b5.png"  "Canais Web TV", CANAL 20 TV
-http://wse8.player.tv.br:1935/canal20/canal20/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "http://www.meiosepublicidade.pt/wp-content/uploads/2013/05/180-logo-peq1.png"  "Canais Web TV", CANAL 180
-http://noscdne.entrprise.tv:1935/live/canal180.stream/livestream.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "http://www.ricostv.net/wp-content/uploads/2017/06/midiakit-ricostv-3.png"  "Canais Web TV", CANAL RICOS
-http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "http://www.canalsete.com.br/bgheader1.png"  "Canais Web TV", CANAL SETE
-http://189.51.193.98:8081/canalsete/str3/playlist.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "https://goo.gl/XE6Qty"  "Canais Web TV", CARIOCA TV
-http://tv02.logicahost.com.br:1935/cariocainterativo/cariocainterativo/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "https://i0.wp.com/i.imgur.com/WFqNuXt.png"  "Canais Web TV", CATVE HD
-http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "https://goo.gl/m5hnfy"  "Canais Web TV", CENTRAL TV
-http://tv02.logicahost.com.br:1935/rbt01/rbt01/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "https://goo.gl/T79Cdn"  "Canais Web TV", REDE MÃƒO AMIGA
-http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "https://goo.gl/kNQUDr"  "Canais Web TV", REDE PETRÃ“POLIS DE TELEVISÃƒO
-http://stmv3.euroti.com.br:1935/neviton5281/neviton5281/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "https://goo.gl/GtS1GU"  "Canais Web TV", REDE RC
-http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "https://goo.gl/QCj1io"  "Canais Web TV", TV AD BELÃ‰M
-http://streaming60.sitehosting.com.br:1935/tvadbras/tvadbras/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "https://goo.gl/i5U8t5"  "Canais Web TV", TV ÃGAPE
-http://streaming63.sitehosting.com.br:1935/prwalla/prwalla/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "https://goo.gl/AS8bep"  "Canais Web TV", TV ÃGUA BOA
-http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "https://goo.gl/sWLj5T"  "Canais Web TV", TV ALESE
-http://digilab-live.hls.adaptive.level3.net:80/hls-live/digilablive-tvalese/_definst_/live/stream3.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "https://goo.gl/Ld7HTp"  "Canais Web TV", TV AREADO
-http://stmv2.euroti.com.br:1935/tvareado/tvareado/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "https://goo.gl/4Nt9wv"  "Canais Web TV", TV BETEL
-http://stmv1.euroti.com.br:1935/betelnc/betelnc/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "https://goo.gl/N4jn14"  "Canais Web TV", TV BNO
-http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "https://goo.gl/B2oVnh"  "Canais Web TV", TV BOA ESPERANÃ‡A
-http://stmv2.euroti.com.br:1935/16692/16692/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "https://goo.gl/QpSR59"  "Canais Web TV", TV CAMPOS GERAIS
-http://stmv2.euroti.com.br:1935/tvcamposgerais/tvcamposgerais/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "https://goo.gl/BQQLeh"  "Canais Web TV", TV CAPITAL
-http://stmv3.euroti.com.br:1935/canal54/canal54/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "http://radiocapitalfm777.com/images/b18639cd3637413b52f7678f52e01326.jpg"  "Canais Web TV", TV CAPITAL 777
-http://tv02.logicahost.com.br:1935/tvcapital/tvcapital/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "http://3.bp.blogspot.com/-Fa8YNjoDpsI/TotxkX45UqI/AAAAAAAAAJw/92TUKz3Hb6E/s1600/logo_tvcaxias.png"  "Canais Web TV", TV CAXIAS
-http://stmv1.euroti.com.br:1935/caxiashost/caxiashost/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "https://goo.gl/x98wdA"  "Canais Web TV", TVCOM MACEIÃ“
-http://srv6.zoeweb.tv:1935/z883-live/stream/livestream.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "https://goo.gl/nmh4WM"  "Canais Web TV", TV CONEXÃƒO 33
-http://11.fm5.com.br:1935/conexao/conexao/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "https://goo.gl/Xb9PfQ"  "Canais Web TV", TV CUMARU
-http://stmv2.euroti.com.br:1935/tvcumaru/tvcumaru/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "https://goo.gl/4bgVxJ"  "Canais Web TV", TV DA CIDADE DE SÃƒO PAULO
-http://stmv2.euroti.com.br:1935/tvcidadesp/tvcidadesp/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "https://goo.gl/WqiXp4"  "Canais Web TV", TV DC 46
-http://stmv3.euroti.com.br:1935/dc46/dc46/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "https://goo.gl/SVtU7z"  "Canais Web TV", TV DESTAK
-http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "https://upload.wikimedia.org/wikipedia/pt/6/61/Logotipo_da_TV_Difusora_Sul.png"  "Canais Web TV", TV DIFUSORA SUL
-http://srv3.zoeweb.tv:1935/z438-live/stream/livestream.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "https://goo.gl/DusroP"  "Canais Web TV", TV DIGITAL BIRIGUI
-http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "https://goo.gl/6rGfQF"  "Canais Web TV", TV DO POVO
-http://tv02.logicahost.com.br:1935/tvdopovo/tvdopovo/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "https://goo.gl/SWcLut"  "Canais Web TV", TV DORENSE
-http://stmv2.euroti.com.br:1935/tvdorense/tvdorense/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "http://redeminasdosul.com.br/tveloimendes/img_site/logo.png"  "Canais Web TV", TV ELÃ“I MENDES
-http://stmv2.euroti.com.br:1935/tveloimendes/tveloimendes/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "https://goo.gl/YLsABv"  "Canais Web TV", TV ÃŠXITO
-http://flashd.localmidia.com.br:1935/tvexito/aovivo/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "http://www.cxtv.com.br/img/Tvs/Logo/e700b36011ab491b231e9f33028ff049.png"  "Canais Web TV", TV FAAP HD
-http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "https://goo.gl/Ho7rgh"  "Canais Web TV", TV FÃTIMA
-http://streaming63.sitehosting.com.br:1935/telemaco/telemaco/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "https://goo.gl/AGjZ8m"  "Canais Web TV", TV FÃTIMA PARATIBE
-http://tv01.logicahost.com.br:1935/tvfatimaparatibe/tvfatimaparatibe/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "http://www.filadelfia12.com.br/arquivos/template/215x240x7d7ac9c5127fd48324a700b4ab216f40.png.pagespeed.ic.17yEuwZr1h.png"  "Canais Web TV", TV FILADÃ‰LFIA
-http://stmv2.euroti.com.br:1935/nivaldo5820/nivaldo5820/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "https://goo.gl/uTYDww"  "Canais Web TV", TV FLORIPA
-http://11.fm5.com.br:1935/tvfloripa/tvfloripa/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "http://www.jornalfolhadoestado.com/tvgeral/imagens/tvgeral.png"  "Canais Web TV", TV GERAL
-http://s1.wsepanel.com:1935/tvgeral/tvgeral/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "https://goo.gl/S46fqs"  "Canais Web TV", TV GOIÃS
-http://stmv2.euroti.com.br:1935/tvgoias/tvgoias/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "https://goo.gl/oqGLCk"  "Canais Web TV", TV ITABUNA
-http://wse7.player.tv.br:1935/acao50/acao50/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "https://goo.gl/aP43yi"  "Canais Web TV", TV ITAPETININGA
-http://stream02.msolutionbrasil.com.br:1935/tvitape/tvitape/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "http://www.tvitabuna.com.br/logonova-TVI.png"  "Canais Web TV", TV ITARARÃ‰
-http://ftp.tvitarare.com.br:80/hls/live/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "http://portal.pucminas.br/puctv/imagens/parceiros/logo_tv_horizonte.png"  "Canais Web TV", TV LINHA HORIZONTE
-http://tv01.logicahost.com.br:1935/linhahorizonte/linhahorizonte/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "http://redeminasdosul.com.br/tvparaguassu/img_site/logo.png"  "Canais Web TV", TV PARAGUASSU
-http://stmv2.euroti.com.br:1935/tvparaguassu/tvparaguassu/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "http://www.tvportaldabahia.com.br/wp-content/uploads/2016/07/PORTAL-DA-BAHIA-3D.png"  "Canais Web TV", TV PORTAL DA BAHIA
-http://tv01.logicahost.com.br:1935/tvportal/tvportal/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "http://www.tvportaldafeira.com.br/wp-content/themes/tvpba//images/logo.png"  "Canais Web TV", TV PORTAL DA FEIRA
-http://tv01.logicahost.com.br:1935/portaldafeira/portaldafeira/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "https://goo.gl/mGnYEk"  "Canais Web TV", TV PORTAL MIDIA
-http://painel.tvdigitalhd.org:1935/tvportalmidia/tvportalmidia/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "https://goo.gl/FNrd8R"  "Canais Web TV", TV POVO CIGANO
-http://streaming30.sitehosting.com.br:1935/cigano/cigano/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "http://4.bp.blogspot.com/-76jIdTy2sS4/UKK4gm09omI/AAAAAAAAAGE/4XP5hitnPqY/s320/TV+RIO.png"  "Canais Web TV", TV RIO
-http://stmv4.euroti.com.br:1935/tvrio/tvrio/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "https://goo.gl/njGn6q"  "Canais Web TV", TV SÃƒO PAULO
-http://stmv2.euroti.com.br:1935/tvsaopaulo/tvsaopaulo/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "https://goo.gl/dpqzY1"  "Canais Web TV", TV SERRA DOURADA
-http://tvsd2.zoeweb.tv:1935/tvsd2/tvsd2.smil/chunklist_b796000.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "https://goo.gl/1J3zsV"  "Canais Web TV", TV SOL HD
-http://tv02.logicahost.com.br:1935/tvsol/tvsol/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "http://talitonews.produtoraalphanet.com.br/upload/logo.png"  "Canais Web TV", TV TALITONEWS
-http://painel.tvdigitalhd.org:1935/nelsinho80132/nelsinho80132/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "http://www.congressomv.org/wp-content/uploads/2014/05/Logo-Terceiro-Anjo-Branco-700.png"  "Canais Web TV", TV TERCEIRO ANJO
-http://streamer1.streamhost.org:1935/salive/GMI3anjoh/livestream.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "http://www.tvunitupan.com.br/img/logo.png"  "Canais Web TV", TV UNIVERSITÃRIA desenhos
-http://150.161.93.173:80/hls/720/index.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "http://tv.vianney.org.br/wp-content/themes/vianney/img/logo-centro-paroquia-sao-joao-maria-vianney.png"  "Canais Web TV", TV VIANNEY
-http://wse7.player.tv.br:1935/iolandomauriciodasilva800/iolandomauriciodasilva800/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "https://goo.gl/1p9cZY"  "Canais Web TV", TV VITÃ“RIA
-http://tvvitoria.viacast.tv:80/livepl/tvvitoria_2_original.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "https://goo.gl/PmU4tw"  "Canais Web TV", UPTV
-http://uptv.flashplayer.acessaradios.com.br:1935/uptv/uptv/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "https://goo.gl/VtaFV8"  "Canais Web TV", VALE TV BRASIL
-http://stmv1.euroti.com.br:1935/valetvbrasil/valetvbrasil/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "https://goo.gl/JYSKEU"  "Canais Web TV", VALE TV PLAY
-http://wse6.player.tv.br:1935/valetvplay/valetvplay/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "http://vv8.tv.br/site/wp-content/uploads/vv8-web-logo.png"  "Canais Web TV", VV8 TV
-http://servidor.saudeline.tv.br:1935/live/myStream1/livestream.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "http://www.webcactv.com.br/imagens/logo-web-cac-tv.png"  "Canais Web TV", WEB CAC TV
-http://wse6.player.tv.br:1935/webcactv/webcactv/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "http://www.webtvleaodejuda.com.br/themes/leaodejuda/assets/img/logo-mobile.png"  "Canais Web TV", WEB TV LEÃƒO DE JUDÃ
-http://streaming63.sitehosting.com.br:1935/juda/juda/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "http://webtvminas.esy.es/wp-content/uploads/2014/10/logo.png"  "Canais Web TV", WEB TV MINAS
-http://tv01.logicahost.com.br:1935/webtvminas/webtvminas/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "https://goo.gl/1j523U"  "Canais Web TV", WEB TV RESTAURA VIDAS
-http://stmv4.euroti.com.br:1935/tvrestauravidas/tvrestauravidas/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "https://goo.gl/xmD4N6"  "Canais Web TV", WEB TV UAI
-http://tv01.logicahost.com.br:1935/tvuai/tvuai/live.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "http://i.imgur.com/EdTZ0ba.png"  "CANAIS DE FILMES E SERIES", Classique TV SD
-http://stmv2.euroti.com.br:1935/classique/classique/playlist.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "http://i.imgur.com/EdTZ0ba.png"  "CANAIS DE FILMES E SERIES", Classique TV
-http://stmv2.srvstm.com/classique/classique/playlist.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "http://www.cxtv.com.br/img/Tvs/Logo/1b38197464c993b55202421771846cea.png"  "CANAIS DE VARIEDADES", Rede New
-http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8?CANALANDRONALTAS
-#EXTINF:-1  "http://i.imgur.com/M5FodWF.png"  "CANAIS DE MUSICAS", VH1 HD
-http://91.231.219.145/tv_vh1_classic/video.m3u8?CANALANDRONALTAS
+
+
 #EXTINF:-1  "https://images-eu.ssl-images-amazon.com/images/I/41Bb2x1cL9L.png"  "CANAIS DE MUSICAS", Heart TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_398_av-p.m3u8?CANALANDRONALTAS
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_398_av-p.m3u8
 #EXTINF:-1  "http://www.nrjlebanon.com/events/images/events/logo_NRJ_Hits_web.jpg"  "CANAIS DE MUSICAS", NRJ Hits TV
-http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1099779633.m3u8?CANALANDRONALTAS
+http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1099779633.m3u8
 #EXTINF:-1  "http://i.imgur.com/wIb4ZwM.png"  "CANAIS DE MUSICAS", RUTV
 https://live-rmg.cdnvideo.ru/rmg/rutv_new.sdp/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.rmg?CANAISGLAU
 #EXTINF:-1  "http://i.imgur.com/qVGbH7r.png"  "CANAIS DE MUSICAS", Music Box
-http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8?CANALANDRONALTAS
+http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8
 #EXTINF:-1  "https://upload.wikimedia.org/wikipedia/ro/1/16/Muz-TV_Moldova.png"  "CANAIS DE MUSICAS", MUZ TV
-http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8?CANALANDRONALTAS
+http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8
 #EXTINF:-1  "http://i.imgur.com/7icilYb.png"  "CANAIS DE MUSICAS", Melody Channel
-http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?CANALANDRONALTAS
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
 #EXTINF:-1  "http://www.cxtv.com.br/img/Tvs/Logo/ac7d3aa2c6875405c9eed3c3bf922d4a.png"  "CANAIS DE MUSICAS", Heart TV2
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-b.m3u8?sd=10&rebase=on?CANAISGLAU
 #EXTINF:-1  "http://directostv.teleame.com/wp-content/uploads/2017/10/Cool-TV.png"  "CANAIS DE MUSICAS", Cool 103.7 HD
-http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8?CANAISGLAU?CANALANDRONALTAS
+http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8?CANAISGLAU
 #EXTINF:-1  "http://puu.sh/nsWwi/c18fe4842e.png"  "CANAIS DE MUSICAS", m2o TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on?CANALANDRONALTAS
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1  "https://goo.gl/wFu6p6"  "CANAIS DE MUSICAS", TiVu
-http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8?CANAISGLAU?CANALANDRONALTAS
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8?CANAISGLAU
 #EXTINF:-1  "http://www.cocolatv.com/pictures/thecountrynetwork.png"  "CANAIS DE MUSICAS", The Country Network
-https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8?CANALANDRONALTAS
+https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
 #EXTINF:-1  "http://cdn-radiotime-logos.tunein.com/s73201q.png"  "CANAIS DE MUSICAS", City Radio TV
-http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8?CANALANDRONALTAS
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
 #EXTINF:-1  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Radio_5_Logo.svg/2000px-Radio_5_Logo.svg.png"  "CANAIS DE MUSICAS", Radio 105 TV
-http://fms.105.net:1935/live/105Test1/livestream.m3u8?CANALANDRONALTAS
+http://fms.105.net:1935/live/105Test1/livestream.m3u8
 #EXTINF:-1  "http://cdn-radiotime-logos.tunein.com/s172053q.png"  "CANAIS DE MUSICAS", PortalFoxMix Tv
-http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8?CANALANDRONALTAS
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 #EXTINF:-1  "https://static-s.aa-cdn.net/img/gp/20600000623424/REXl4v9d-Zmh5eJ7t6a0kv3DQJ-ar75OxvHSDMOoD-rCZEBlfy3klt6VgFlAkUw5yZE=w300"  "CANAIS DE MUSICAS", U TV
-http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8?CANALANDRONALTAS
+http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8
 #EXTINF:-1  "https://www.capitalcomvoce.com.br/imagens/layout/logo.png"  "CANAIS DE MUSICAS", Radio Capital TV(IT)
-http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8?sd=10&rebase=on?CANALANDRONALTAS
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1  "http://i.imgur.com/TdznZEH.png"  "CANAIS DE MUSICAS", Virgin TV 1
-http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8?CANALANDRONALTAS
+http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
 #EXTINF:-1  "http://i.imgur.com/TdznZEH.png"  "CANAIS DE MUSICAS", Virgin TV 2
-http://wow01.105.net/live/virgin1/chunklist_w1531272998.m3u8?CANALANDRONALTAS
+http://wow01.105.net/live/virgin1/chunklist_w1531272998.m3u8
 #EXTINF:-1  "http://corporate.musicchoice.com/files/1913/8178/7936/MCPlayLogo.png"  "CANAIS DE MUSICAS", MC Play
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8?CANALANDRONALTAS
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 #EXTINF:-1  "https://listaiptvbrasil.com/logo/tv5monde.png"  "CANAIS DE NOTICIAS", TV5 Monde
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8?CANALANDRONALTAS
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
 #EXTINF:-1  "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/TVCi.png/200px-TVCi.png"  "CANAIS DE NOTICIAS", TVCI
-http://flash8.crossdigital.com.br:1935/2306/2306/live.m3u8?CANALANDRONALTAS
+http://flash8.crossdigital.com.br:1935/2306/2306/live.m3u8
 #EXTINF:-1  "http://i.imgur.com/EQG9OOD.png"  "CANAIS DE NOTICIAS", CBS News
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8?CANALANDRONALTAS
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1  "https://listaiptvbrasil.com/logo/france.png"  "CANAIS DE NOTICIAS", France 24
-http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8?CANALANDRONALTAS
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:-1  "https://listaiptvbrasil.com/logo/dw.png"  "CANAIS DE NOTICIAS", DW TV HD
-http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8?CANALANDRONALTAS
+http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
 #EXTINF:-1  "https://listaiptvbrasil.com/logo/cbsnews.png"  "CANAIS DE NOTICIAS", CBS News HD
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8?CANALANDRONALTAS
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
 #EXTINF:-1  "http://images.mi.tv/channels/br_nhk_m.png"  "CANAIS DE NOTICIAS", NHK World
 #EXTINF:-1  "http://i.imgur.com/v7fRn8r.png"  "CANAIS DE NOTICIAS", Fox News
-http://fnurtmp-f.akamaihd.net/i/FNCPREV_1@143121/index_300_av-b.m3u8?CANALANDRONALTAS
+http://fnurtmp-f.akamaihd.net/i/FNCPREV_1@143121/index_300_av-b.m3u8
 #EXTINF:-1  "http://i.imgur.com/ix40Cv6.png"  "CANAIS DE NOTICIAS", Bloomberg
-http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8?CANALANDRONALTAS
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 #EXTINF:-1  "http://vignette1.wikia.nocookie.net/logopedia/images/0/0c/Sky_News_2015_logo.svg/revision/latest/scale-to-width-down/300?cb=20150530220244"  "CANAIS DE NOTICIAS", SKY News
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8?CANALANDRONALTAS
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:-1  "http://www.reproductivelawyer.com/wp-content/uploads/2016/10/cbs-news.png"  "CANAIS DE NOTICIAS", CBSN
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8?CANALANDRONALTAS
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
 #EXTINF:-1  "http://bit.ly/IMG_FRANCE24"  "CANAIS DE NOTICIAS", France 24 FR
-http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master.m3u8?CANALANDRONALTAS
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master.m3u8
 #EXTINF:-1  "http://i.imgur.com/4fLVLhF.png"  "CANAIS DE DOCUMENTARIOS", TCM 10 HD
-http://cw.tcm10.com.br:80/low/canal10.m3u8?CANALANDRONALTAS
+http://cw.tcm10.com.br:80/low/canal10.m3u8
 #EXTINF:-1  "https://listaiptvbrasil.com/logo/historylab.png"  "CANAIS DE DOCUMENTARIOS", History Lab - ItÃ¡lia
-http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8?CANALANDRONALTAS
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
 #EXTINF:-1  "https://listaiptvbrasil.com/logo/historylab.png"  "CANAIS DE DOCUMENTARIOS", History Lab HD
-http://wma10.fluidstream.net:1935/HistoryLab/livestream/chunklist_w657994700.m3u8?CANALANDRONALTAS
+http://wma10.fluidstream.net:1935/HistoryLab/livestream/chunklist_w657994700.m3u8
 #EXTINF:-1  "https://yiptv.com/live-tv/wp-content/uploads/2017/08/newapp-icon-antena-3.png"  "CANAIS INTERNACIONAL", Antena 3
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on?CANALANDRONALTAS
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1  "http://i.radionomy.com/document/radios/7/7a14/7a14209e-2671-4bb8-812b-b1caf147c1ff.jpg"  "RADIOS FM", 113FM Awesome 80s - 1986
-http://104.200.142.184:80/1751_128?CANALANDRONALTAS
+http://104.200.142.184:80/1751_128
 #EXTINF:-1  "https://lh3.googleusercontent.com/xDPO2DES_VtwiygcIfsiSZ0Jz7Nxq3ilhDvINecHmDTf635PI6IfRT_KfQCjBmn6Z43X=w300"  "RADIOS FM", RÃ¡dio SÃ³ FlashBack - SÃ£o LuÃ­s
-http://stm41.srvstm.com:12648/;?CANALANDRONALTAS
+http://stm41.srvstm.com:12648/;
 #EXTINF:-1  "http://anoticiadoceara.com.br/wp-content/uploads/2015/02/Roberto-Carlos-LOGO.png"  "RADIOS FM", ROBERTO CARLOS FM
-http://192.99.150.31:9137/stream?CANALANDRONALTAS
+http://192.99.150.31:9137/stream
 #EXTINF:-1  "http://www.saudadefm.com.br/images/logo-saudade-disco.png"  "RADIOS FM", Saudade Anos 80
-http://192.99.150.31:8697/stream?CANALANDRONALTAS
+http://192.99.150.31:8697/stream
 #EXTINF:-1  "https://upload.wikimedia.org/wikipedia/pt/7/7d/Logo_kiss_fm.jpg"  "RADIOS FM", Kiss FM
-http://kissfm.live24.gr/kiss2111?CANAISGLAU?CANALANDRONALTAS
+http://kissfm.live24.gr/kiss2111?CANAISGLAU
 #EXTINF:-1  "http://www.connectradioweb.com.br/files/2017/10/RADIO-CONNECT-HORIZONTAL-site-1-500.png"  "RADIOS FM", Connect Radio Web (Barra do Corda-MA)
-http://cast2.hoost.com.br:8356/stream?CANALANDRONALTAS
+http://cast2.hoost.com.br:8356/stream
 #EXTINF:-1  "https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg"  "RADIOS FM", FM Love Classics
-http://strm112.1.fm/loveclassics_mobile_mp3?CANALANDRONALTAS
+http://strm112.1.fm/loveclassics_mobile_mp3
 #EXTINF:-1  "https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg"  "RADIOS FM", Mix Sao Paulo
-http://tuneinmix.crossradio.com.br:8008/;?CANALANDRONALTAS
+http://tuneinmix.crossradio.com.br:8008/;
 #EXTINF:-1  "https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg"  "RADIOS FM", Radio UFU FM MG
-http://webradio.dr.ufu.br:8000/live?CANALANDRONALTAS
+http://webradio.dr.ufu.br:8000/live
 #EXTINF:-1  "http://i.imgur.com/MmJBR9j.png"  "SOUND!", Kids
-http://192.99.150.31:9431/stream?CANALANDRONALTAS
+http://192.99.150.31:9431/stream
 #EXTINF:-1  "http://i.imgur.com/MmJBR9j.png"  "SOUND!", MPB
-http://192.99.150.31:8775/stream?CANALANDRONALTAS
+http://192.99.150.31:8775/stream
 #EXTINF:-1  "http://i.imgur.com/MmJBR9j.png"  "SOUND!", ForrÃ³
-http://192.99.150.31:9019/stream?CANALANDRONALTAS
+http://192.99.150.31:9019/stream
 #EXTINF:-1  "http://i.imgur.com/MmJBR9j.png"  "SOUND!", Sertanejo
-http://192.99.150.31:9485/stream?CANALANDRONALTAS
+http://192.99.150.31:9485/stream
 #EXTINF:-1  "http://i.imgur.com/MmJBR9j.png"  "SOUND!", Funk
-http://192.99.150.31:9089/stream?CANALANDRONALTAS
+http://192.99.150.31:9089/stream
 #EXTINF:-1  "http://i.imgur.com/MmJBR9j.png"  "SOUND!", Rock ClÃ¡ssico
-http://192.99.150.31:9125/stream?CANALANDRONALTAS
+http://192.99.150.31:9125/stream
 #EXTINF:-1  "http://i.imgur.com/MmJBR9j.png"  "SOUND!", Anos 70
-http://192.99.150.31:8241/stream?CANALANDRONALTAS
+http://192.99.150.31:8241/stream
 #EXTINF:-1  "http://i.imgur.com/MmJBR9j.png"  "SOUND!", Anos 90
-http://192.99.150.31:8056/stream?CANALANDRONALTAS
+http://192.99.150.31:8056/stream
 #EXTINF:-1  "http://i.imgur.com/MmJBR9j.png"  "SOUND!", RomÃ¢nticas
-http://192.99.150.31:8962/stream?CANALANDRONALTAS
+http://192.99.150.31:8962/stream
 #EXTINF:-1  "http://i.imgur.com/MmJBR9j.png"  "SOUND!", Rap Nacional
-http://192.99.150.31:8377/stream?CANALANDRONALTAS
+http://192.99.150.31:8377/stream
 #EXTINF:-1  "http://i.imgur.com/MmJBR9j.png"  "SOUND!", EletrÃ´nica
-http://192.99.150.31:9095/stream?CANALANDRONALTAS
+http://192.99.150.31:9095/stream
 #EXTINF:-1  "http://i.imgur.com/MmJBR9j.png"  "SOUND!", Gospel
-http://192.99.150.31:9101/stream?CANALANDRONALTAS
+http://192.99.150.31:9101/stream
 #EXTINF:-1  "http://i.imgur.com/MmJBR9j.png"  "SOUND!", Hip Hop
-http://192.99.150.31:8721/stream?CANALANDRONALTAS
+http://192.99.150.31:8721/stream
 #EXTINF:-1  "http://i.imgur.com/MmJBR9j.png"  "SOUND!", Jazz
-http://192.99.150.31:8042/stream?CANALANDRONALTAS
+http://192.99.150.31:8042/stream
 #EXTINF:-1  "http://i.imgur.com/MmJBR9j.png"  "SOUND!", AxÃ©
-http://192.99.150.31:8305/stream?CANALANDRONALTAS
+http://192.99.150.31:8305/stream
 #EXTINF:-1  "http://i.imgur.com/WFqNuXt.png"  "NotÃ­cias", Catve HD
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1  "https://goo.gl/rjQu2h"  "CANAIS RELIGIOSOS", APARECIDA
