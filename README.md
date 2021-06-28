@@ -3,15 +3,10 @@
 http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1546_&f=.m3u8
 
 #EXTINF:-1 ,UNIVERSAL CHANNEL FUL.HD
-<object type="application/x-shockwave-flash" style="width:450px; height:366px;" data="//www.youtube.com/v/6-9S_1D1hXE?color2=FBE9EC&amp;version=3">
-        <param name="movie" value="//www.youtube.com/v/6-9S_1D1hXE?color2=FBE9EC&amp;version=3" />
-        <param name="allowFullScreen" value="true" />
-        <param name="allowscriptaccess" value="always" />
-        </object><div style="font-size: 0.8em"><a href="https://www.tools4noobs.com/online_tools/youtube_xhtml/">Get your own valid XHTML YouTube embed code</a></div>
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1624861469/ei/vRbZYLuCDsOY1sQP2NK_uAM/ip/181.93.254.4/id/wHn1_QVoXGM.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgeAhwldT3_a7GSeVuDj29B8Tr9HNsEpetAaF4TrmRMuECIFwdsE_zPbbMUcviH_1vpqnYWviI-_x81jhygClIsBLJ/file/index.m3u8
 
 #EXTINF:-1 ,UNIVERSAL CHANNEL FUL.HD
-<iframe width='500' height='294' src="https://www.youtube.com/embed/6-9S_1D1hXE?&theme=dark&autoplay=1&autohide=2"frameborder="0"></iframe><div style='font-size: 0.8em'><a href='http://codegena.com/generator/Youtube-Embed-Code-Generator.html'>Created by Codegena.</a></div>
-
+https://www.youtube.com/oembed?format=xml&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJPQX3vBxcaE%26list%3DUUew_WONZCxLqNdTpZ6gXUeA%26index%3D2
 
 
 
